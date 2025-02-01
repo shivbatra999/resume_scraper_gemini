@@ -1,6 +1,7 @@
-okay so basically gemini_extraction_2 is the actual model, 
-some functionality does not work but 
-pdf to text.py from resumes folder, and then run extraction and 
-parse json in output 
 
-firebaseconfigpy file to like upload data to talents or wtv collection 
+some functionality does not work but 
+pdf to text.py from resumes folder to textresume folder
+, and then run extraction and 
+parse json in output folder
+
+firebaseconfigpy file to upload data to talents or other collection.
