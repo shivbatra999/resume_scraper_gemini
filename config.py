@@ -1,7 +1,7 @@
 
 import os
 # 🔹 Configuration file for API keys and settings
-GEMINI_API_KEY = "AIzaSyDYwH_FRHvwL6Sa7E6YxS6IlCTzqmFqksA"
+GEMINI_API_KEY = ""
 
 
 # Define paths
